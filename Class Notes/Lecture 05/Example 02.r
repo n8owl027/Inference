@@ -14,12 +14,14 @@
 #mean. Suppose we know that the population variance is .36.
 #Assume that the population distribution is normal.
 
+library(BSDA)
 
 data<-c(.360, 1.189,.614,.788,.273,2.464,.571,
         1.827,.537,.374,.449,.262,.448,.971,.372,
         .898,.411,.348,1.925,.550,.622,
         .610,.319,.406,.413,.767,.385,.674,
         .521,.603,.533,.662,1.177,.307,1.499)
+
 x<-mean(data)
 x
 n<-35
