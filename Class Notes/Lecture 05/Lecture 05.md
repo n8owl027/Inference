@@ -21,6 +21,8 @@ This quantity is also called the margin of error.
 
 ## Situation 3
 
-- The population variance and population mean is unknown 
+- Population variance is unknown
+
+- Population mean is unknown 
 
 - Small in sample size
